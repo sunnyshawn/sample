@@ -41,7 +41,7 @@ class Module_Sample extends Module {
                         'id' => array(
 									  'type' => 'INT',
 									  'constraint' => '11',
-									  'auto_increment' => TRUE
+									  'auto_increment' => false
 									  ),
 						'name' => array(
 										'type' => 'VARCHAR',
